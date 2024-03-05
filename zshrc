@@ -72,3 +72,4 @@ export EDITOR=code
 export PYTHONBREAKPOINT=ipdb.set_trace
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+sudo /etc/init.d/postgresql start

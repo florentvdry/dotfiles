@@ -89,6 +89,6 @@
     "wsl.localhost"
   ],
   "tabnine.experimentalAutoImports": true,
-  "workbench.colorTheme": "GitHub Dark",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
   "editor.cursorSmoothCaretAnimation": "on"
 }
