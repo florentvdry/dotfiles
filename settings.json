@@ -6,7 +6,7 @@
   },
   "editor.bracketPairColorization.enabled": true,
   "editor.detectIndentation": false,
-  "editor.fontSize": 14,
+  "editor.fontSize": 16,
   "editor.guides.bracketPairs": true,
   "editor.minimap.enabled": false,
   "editor.multiCursorModifier": "ctrlCmd",
@@ -77,7 +77,7 @@
   "window.restoreWindows": "none",
   "window.newWindowDimensions": "maximized",
   "workbench.editor.enablePreview": true,
-  "workbench.iconTheme": "vs-seti",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.settings.editor": "json",
   "workbench.settings.openDefaultSettings": true,
   "workbench.settings.useSplitJSON": true,
@@ -88,6 +88,7 @@
     "wsl.localhost"
   ],
   "tabnine.experimentalAutoImports": true,
-  "workbench.colorTheme": "GitHub Dark Dimmed",
-  "editor.cursorSmoothCaretAnimation": "on"
+  "workbench.colorTheme": "GitHub Dark",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontLigatures": true
 }
