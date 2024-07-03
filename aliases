@@ -5,5 +5,4 @@ alias speedtest="curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/m
 # Quickly serve the current directory as HTTP
 alias serve='ruby -run -e httpd . -p 8000' # Or python -m SimpleHTTPServer :)
 
-alias stt="/mnt/c/Program\ Files/Sublime\ Text/subl.exe"
-alias subl="/mnt/c/Program\ Files/Sublime\ Text/subl.exe"
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"

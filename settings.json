@@ -1,8 +1,8 @@
 {
   "[python]": {
-      "editor.bracketPairColorization.enabled": false,
-      "editor.guides.bracketPairs": false,
-      "editor.tabSize": 4
+    "editor.bracketPairColorization.enabled": false,
+    "editor.guides.bracketPairs": false,
+    "editor.tabSize": 4
   },
   "editor.bracketPairColorization.enabled": true,
   "editor.detectIndentation": false,
@@ -12,49 +12,53 @@
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderControlCharacters": true,
   "editor.rulers": [
-      80,
-      120
+    80,
+    120
   ],
   "editor.showFoldingControls": "always",
   "editor.snippetSuggestions": "top",
   "editor.tabSize": 2,
   "emmet.includeLanguages": {
-      "erb": "html"
+    "erb": "html",
+    "njk": "html"
   },
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.triggerExpansionOnTab": true,
   "explorer.confirmDelete": false,
   "files.exclude": {
-      "__pycache__": true,
-      "_site": true,
-      ".asset-cache": true,
-      ".bundle": true,
-      ".ipynb_checkpoints": true,
-      ".pytest_cache": true,
-      ".sass-cache": true,
-      ".svn": true,
-      "**/.DS_Store": true,
-      "**/.egg-info": true,
-      "**/.git": true,
-      "build": true,
-      "coverage": true,
-      "dist": true,
-      "log": true,
-      "node_modules": true,
-      "public/packs": true,
-      "tmp": true
+    "__pycache__": true,
+    "_site": true,
+    ".asset-cache": true,
+    ".bundle": true,
+    ".ipynb_checkpoints": true,
+    ".pytest_cache": true,
+    ".sass-cache": true,
+    ".svn": true,
+    "**/.DS_Store": true,
+    "**/.egg-info": true,
+    "**/.git": true,
+    "build": true,
+    "coverage": true,
+    "dist": true,
+    "log": true,
+    "node_modules": true,
+    "public/packs": true,
+    "tmp": true
+  },
+  "files.associations": {
+    "*.html": "njk"
   },
   "files.hotExit": "off",
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
   "files.watcherExclude": {
-      "**/audits/**": true,
-      "**/coverage/**": true,
-      "**/log/**": true,
-      "**/node_modules/**": true,
-      "**/tmp/**": true,
-      "**/vendor/**": true
+    "**/audits/**": true,
+    "**/coverage/**": true,
+    "**/log/**": true,
+    "**/node_modules/**": true,
+    "**/tmp/**": true,
+    "**/vendor/**": true
   },
   "notebook.diff.ignoreMetadata": true,
   "notebook.lineNumbers": "on",
@@ -67,10 +71,9 @@
   "python.linting.pylintEnabled": false,
   "python.terminal.activateEnvironment": false,
   "ruby.lint": {
-      "rubocop": true
+    "rubocop": true
   },
   "search.exclude": {
-    // Inherits all glob patterns from the `files.exclude` setting.
     "**/.venv": true
   },
   "telemetry.telemetryLevel": "off",
@@ -88,7 +91,11 @@
     "wsl.localhost"
   ],
   "tabnine.experimentalAutoImports": true,
-  "workbench.colorTheme": "GitHub Dark",
+  "workbench.colorTheme": "GitHub Light",
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+  "git.enableSmartCommit": true,
+  "editor.stickyScroll.enabled": false,
+  "git.confirmSync": false,
+  "dotnet.codeLens.enableReferencesCodeLens": false
 }
