@@ -6,3 +6,4 @@ alias speedtest="curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/m
 alias serve='ruby -run -e httpd . -p 8000' # Or python -m SimpleHTTPServer :)
 
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+alias sail='./vendor/bin/sail'
