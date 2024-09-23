@@ -70,8 +70,3 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
-
-# eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
-# sudo /etc/init.d/postgresql start
-
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
