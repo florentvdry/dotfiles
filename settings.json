@@ -46,7 +46,7 @@
         "tmp": true
     },
     "files.associations": {
-        "*.html": "njk"
+        "*.html": "html"
     },
     "files.hotExit": "off",
     "files.insertFinalNewline": true,
@@ -85,11 +85,11 @@
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.panel.defaultLocation": "right",
-    "window.zoomLevel": 1,
-    "security.allowedUNCHosts": [
-        "wsl.localhost"
-    ],
+"workbench.panel.defaultLocation": "right",
+"window.zoomLevel": 1,
+"security.allowedUNCHosts": [
+    "wsl.localhost"
+],
     // ->
     "tabnine.experimentalAutoImports": true,
     "workbench.colorTheme": "GitHub Dark Dimmed",
@@ -100,4 +100,10 @@
     "git.confirmSync": false,
     "dotnet.codeLens.enableReferencesCodeLens": false,
     "editor.fontFamily": "'Fira Code Medium'",
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
 }
