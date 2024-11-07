@@ -7,3 +7,4 @@ alias serve='ruby -run -e httpd . -p 8000' # Or python -m SimpleHTTPServer :)
 
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias sail='./vendor/bin/sail'
+alias phpstorm="/opt/PhpStorm-242.23339.16/bin/phpstorm.sh"
