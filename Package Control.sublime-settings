@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"debug": true,
+	"in_process_packages":
+	[
+		"MagicPython",
+		"SCSS",
+		"SublimeLinter",
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"Indent XML",
+		"Latest Migration",
+		"MagicPython",
+		"Material Theme",
+		"Package Control",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-contrib-standardrb",
+		"Theme - DAneo",
+		"TOML",
+		"Sass",
+	],
+}

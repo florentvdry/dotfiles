@@ -1,0 +1,52 @@
+{
+  "hot_exit": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": false,
+	"draw_white_space": true,
+	"ensure_newline_at_eof_on_save": true,
+  "open_files_in_new_window": "always",
+	"folder_exclude_patterns":
+	[
+		"tmp",
+		"log",
+		".git",
+		".svn",
+		"_site",
+		".bundle",
+		".sass-cache",
+		".asset-cache",
+		"build",
+		"node_modules",
+		"dist",
+		"public/packs",
+		"coverage",
+		".ipynb_checkpoints",
+		".pytest_cache",
+		"__pycache__",
+    ".jekyll-cache"
+	],
+	"font_size": 14,
+	"highlight_modified_tabs": true,
+	/*"hot_exit": false,*/
+	"ignored_packages":
+	[
+		"MagicPython",
+		"Python",
+		"SCSS",
+		"SublimeLinter",
+		"Vintage",
+	],
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": true,
+	"use_tab_stops": true,
+	"word_wrap": false,
+}
