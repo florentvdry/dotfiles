@@ -1,6 +1,6 @@
 {
   "hot_exit": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -32,7 +32,6 @@
 	[
 		"MagicPython",
 		"Python",
-		"SCSS",
 		"SublimeLinter",
 		"Vintage",
 	],
