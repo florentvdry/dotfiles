@@ -48,4 +48,5 @@
 	"update_check": true,
 	"use_tab_stops": true,
 	"word_wrap": false,
+	"index_files": true,
 }
