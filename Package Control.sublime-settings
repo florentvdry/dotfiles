@@ -3,8 +3,6 @@
 	"debug": true,
 	"in_process_packages":
 	[
-		"MagicPython",
-		"SublimeLinter",
 	],
 	"installed_packages":
 	[
