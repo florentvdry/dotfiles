@@ -92,7 +92,7 @@
 ],
     // ->
     "tabnine.experimentalAutoImports": true,
-    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.colorTheme": "GitHub Dark",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontLigatures": true,
     "git.enableSmartCommit": true,
