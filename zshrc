@@ -70,3 +70,5 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+# export PATH="/home/florent/.config/herd-lite/bin:$PATH"
+# export PHP_INI_SCAN_DIR="/home/florent/.config/herd-lite/bin:$PHP_INI_SCAN_DIR"

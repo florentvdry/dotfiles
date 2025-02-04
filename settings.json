@@ -85,14 +85,14 @@
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
-"workbench.panel.defaultLocation": "right",
-"window.zoomLevel": 1,
-"security.allowedUNCHosts": [
-    "wsl.localhost"
-],
+    "workbench.panel.defaultLocation": "right",
+    "window.zoomLevel": 1,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
     // ->
     "tabnine.experimentalAutoImports": true,
-    "workbench.colorTheme": "GitHub Dark",
+    "workbench.colorTheme": "GitHub Light",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontLigatures": true,
     "git.enableSmartCommit": true,
@@ -104,7 +104,12 @@
         "editor.defaultFormatter": "Vue.volar"
     },
     "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.defaultFormatter": "vscode.html-language-features"
     },
     "git.autofetch": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "remote.downloadExtensionsLocally": true,
+    "[php]": {
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    },
 }
